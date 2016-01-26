@@ -1,0 +1,28 @@
+name: DrJoe
+favicon: null
+layout_spectrum: 0.6909100995399058
+typography_spectrum: 0.1374511446338147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5590862003155053
+  lightness: 0.14427759707905352
+  saturation: 0.4354211403988302
+  rhythmicContrast: 0.2788600530475378
+purpose: []
